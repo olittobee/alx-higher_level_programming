@@ -10,8 +10,8 @@ Python is a computer programming language often used to build websites and softw
 
  ## ALX TASK TO-DO
 
-[Python Hello-World](https://intranet.alxswe.com/projects/231)
-[Python if/else, loops, functions](https://intranet.alxswe.com/projects/233)
+- [Python Hello-World](https://intranet.alxswe.com/projects/231)
+- [Python if/else, loops, functions](https://intranet.alxswe.com/projects/233)
 
 
 ## Authors
